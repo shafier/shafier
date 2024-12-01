@@ -8,7 +8,6 @@ I want and would like to understand topics that affect these industries, and how
 
 I spent my spare time in 2019 to learn JavaScript, CSS, and HTML. It was an amazing experience. 
 
-- 💞️ I’m looking to collaborate on nothing at the moment. 
 - 📫 How to reach me: I am on LinkedIn; https://www.linkedin.com/in/shafierahim/. Send me a message there. 
 
 <!---
